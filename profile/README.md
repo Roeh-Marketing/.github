@@ -3,6 +3,15 @@
 Our mission is to empower marketing, media, and advertising professionals with innovative and modern tools built on a foundation of science.
 We are committed to building open-source tools and tailored solutions that turn uncertainty into clarity and opacity into vision.
 
+Marketing Mix Modeling
+
+Optimization & Forecasting
+
+Planning & Refining
+
+Testing & Learning
+
+
 <!--
 **Here are some ideas to get you started:**
 
