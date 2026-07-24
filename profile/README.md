@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
+Our mission is to empower marketing, media, and advertising professionals with innovative and modern tools built on a foundation of science.
+We are committed to building open-source tools and tailored solutions that turn uncertainty into clarity and opacity into vision.
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
